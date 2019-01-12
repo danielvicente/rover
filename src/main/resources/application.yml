@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Rover to Mars
+  resources:
+    add-mappings: false
+server:
+  port: 8080
+  context-path: /
